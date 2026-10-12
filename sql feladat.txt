@@ -1,4 +1,4 @@
 Hozz létre egy nosztalgiavillamosok nevű adatbázist!
-Készíts lekérdezést az összes villamos adatainak megjelenítésére!
-Töltsd fel a táblát a nosztalgiavillamos.txt fájlban található adatokkal!
 Állítsd be a tábla elsődleges kulcsát!
+Töltsd fel a táblát a nosztalgiavillamos.txt fájlban található adatokkal!
+Készíts lekérdezést az összes villamos adatainak megjelenítésére!
