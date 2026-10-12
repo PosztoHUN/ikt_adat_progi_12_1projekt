@@ -1,0 +1,5 @@
+Melyik telephelyhez tartozik a legtöbb villamos?
+Hány villamos tartozik a Ferencváros telephelyhez?
+Melyik a legrégebben gyártott villamos?
+Hány nosztalgiavillamos szerepel a fájlban?
+Hány villamos adata található a fájlban?
