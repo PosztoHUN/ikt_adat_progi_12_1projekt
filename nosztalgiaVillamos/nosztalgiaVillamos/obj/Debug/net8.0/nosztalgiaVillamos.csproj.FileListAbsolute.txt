@@ -1,0 +1,14 @@
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\bin\Debug\net8.0\nosztalgiaVillamos.exe
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\bin\Debug\net8.0\nosztalgiaVillamos.deps.json
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\bin\Debug\net8.0\nosztalgiaVillamos.runtimeconfig.json
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\bin\Debug\net8.0\nosztalgiaVillamos.dll
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\bin\Debug\net8.0\nosztalgiaVillamos.pdb
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.AssemblyInfoInputs.cache
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.AssemblyInfo.cs
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.csproj.CoreCompileInputs.cache
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.dll
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\refint\nosztalgiaVillamos.dll
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.pdb
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\nosztalgiaVillamos.genruntimeconfig.cache
+C:\Users\sandan045\OneDrive - BGSzC Pestszentlőrinci Technikum\VS22\projekt_I\nosztalgiaVillamos\nosztalgiaVillamos\obj\Debug\net8.0\ref\nosztalgiaVillamos.dll
