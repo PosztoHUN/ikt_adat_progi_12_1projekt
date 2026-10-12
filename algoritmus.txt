@@ -1,0 +1,17 @@
+Beolvassuk a nosztalgiavillamos.txt fájlban található villamosok adatait egy listába.
+
+Megszámoljuk, hogy az egyes telephelyekhez hány villamos tartozik.
+
+Megkeressük azt a telephelyet, amelyhez a legtöbb villamos tartozik, majd kiírjuk a nevét és a villamosok számát.
+
+Megszámoljuk, hány villamos tartozik a Ferencváros telephelyhez, majd kiírjuk az eredményt.
+
+Megkeressük a legkorábban gyártott villamost a gyártási évek összehasonlításával.
+
+Kiírjuk a legrégebben gyártott villamos pályaszámát, gyártási évét és telephelyét.
+
+Megszámoljuk a fájlban található nosztalgiavillamosokat a NosztalgiaEv mező alapján.
+
+Kiírjuk a nosztalgiavillamosok számát.
+
+Az algoritmus véget ér.
