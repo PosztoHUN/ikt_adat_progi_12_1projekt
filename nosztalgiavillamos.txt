@@ -1,6 +1,6 @@
-436	1913	1987	Ferencváros	1
-611	1908	1987	Ferencváros	1
-616	1919	2017	Angyalföld	0
+436	  1913	1987	Ferencváros	1
+611	  1908	1987	Ferencváros	1
+616	  1919	2017	Angyalföld	0
 1074	1912	1992	Budafok	0
 1233	1964	2018	Baross	1
 1305	1967	2013	Angyalföld	0
